@@ -1,0 +1,126 @@
+,trimester,tagID,counts,tagValue
+0,1956Q2,39,1,dance
+1,1956Q3,103,1,rap
+2,1956Q3,10021,1,russian rap
+3,1957Q1,1474,1,axe
+4,1979Q2,311,1,reggae
+5,2005Q3,17,54,synth pop
+6,2005Q3,370,49,favorite
+7,2005Q3,2191,48,college rock
+8,2005Q3,2726,48,favorite songs
+9,2005Q3,1,42,metal
+10,2005Q4,73,67,rock
+11,2005Q4,81,62,indie
+12,2005Q4,79,56,alternative
+13,2005Q4,25,52,80s
+14,2005Q4,134,51,singer-songwriter
+15,2006Q1,73,115,rock
+16,2006Q1,364,65,favorites
+17,2006Q1,79,55,alternative
+18,2006Q1,192,52,classic rock
+19,2006Q1,4938,49,my favorites
+20,2006Q2,73,181,rock
+21,2006Q2,25,115,80s
+22,2006Q2,24,109,pop
+23,2006Q2,192,82,classic rock
+24,2006Q2,16,75,new wave
+25,2006Q3,73,151,rock
+26,2006Q3,24,118,pop
+27,2006Q3,79,105,alternative
+28,2006Q3,39,73,dance
+29,2006Q3,127,71,seen live
+30,2006Q4,81,174,indie
+31,2006Q4,73,167,rock
+32,2006Q4,79,140,alternative
+33,2006Q4,130,100,female vocalists
+34,2006Q4,18,98,electronic
+35,2007Q1,73,125,rock
+36,2007Q1,79,103,alternative
+37,2007Q1,18,99,electronic
+38,2007Q1,81,87,indie
+39,2007Q1,61,65,industrial
+40,2007Q2,73,241,rock
+41,2007Q2,79,179,alternative
+42,2007Q2,81,134,indie
+43,2007Q2,130,124,female vocalists
+44,2007Q2,18,107,electronic
+45,2007Q3,73,268,rock
+46,2007Q3,79,257,alternative
+47,2007Q3,81,199,indie
+48,2007Q3,24,177,pop
+49,2007Q3,18,149,electronic
+50,2007Q4,73,399,rock
+51,2007Q4,79,336,alternative
+52,2007Q4,81,220,indie
+53,2007Q4,18,183,electronic
+54,2007Q4,78,154,alternative rock
+55,2008Q1,73,318,rock
+56,2008Q1,130,231,female vocalists
+57,2008Q1,81,210,indie
+58,2008Q1,79,205,alternative
+59,2008Q1,24,202,pop
+60,2008Q2,73,415,rock
+61,2008Q2,79,328,alternative
+62,2008Q2,24,300,pop
+63,2008Q2,18,288,electronic
+64,2008Q2,81,267,indie
+65,2008Q3,73,391,rock
+66,2008Q3,79,334,alternative
+67,2008Q3,24,312,pop
+68,2008Q3,81,283,indie
+69,2008Q3,130,248,female vocalists
+70,2008Q4,73,344,rock
+71,2008Q4,18,294,electronic
+72,2008Q4,79,278,alternative
+73,2008Q4,24,261,pop
+74,2008Q4,130,260,female vocalists
+75,2009Q1,73,491,rock
+76,2009Q1,130,317,female vocalists
+77,2009Q1,24,307,pop
+78,2009Q1,18,297,electronic
+79,2009Q1,81,277,indie
+80,2009Q2,73,524,rock
+81,2009Q2,24,367,pop
+82,2009Q2,79,353,alternative
+83,2009Q2,81,312,indie
+84,2009Q2,130,285,female vocalists
+85,2009Q3,73,359,rock
+86,2009Q3,79,308,alternative
+87,2009Q3,81,278,indie
+88,2009Q3,18,274,electronic
+89,2009Q3,24,264,pop
+90,2009Q4,73,320,rock
+91,2009Q4,24,299,pop
+92,2009Q4,79,233,alternative
+93,2009Q4,130,228,female vocalists
+94,2009Q4,18,226,electronic
+95,2010Q1,73,587,rock
+96,2010Q1,24,473,pop
+97,2010Q1,18,398,electronic
+98,2010Q1,79,387,alternative
+99,2010Q1,130,369,female vocalists
+100,2010Q2,73,587,rock
+101,2010Q2,24,520,pop
+102,2010Q2,18,441,electronic
+103,2010Q2,79,382,alternative
+104,2010Q2,81,312,indie
+105,2010Q3,73,506,rock
+106,2010Q3,24,504,pop
+107,2010Q3,130,383,female vocalists
+108,2010Q3,18,371,electronic
+109,2010Q3,79,322,alternative
+110,2010Q4,73,447,rock
+111,2010Q4,18,410,electronic
+112,2010Q4,24,406,pop
+113,2010Q4,81,357,indie
+114,2010Q4,130,340,female vocalists
+115,2011Q1,73,332,rock
+116,2011Q1,24,268,pop
+117,2011Q1,18,189,electronic
+118,2011Q1,79,186,alternative
+119,2011Q1,81,173,indie
+120,2011Q2,73,144,rock
+121,2011Q2,18,126,electronic
+122,2011Q2,24,104,pop
+123,2011Q2,79,89,alternative
+124,2011Q2,81,74,indie
