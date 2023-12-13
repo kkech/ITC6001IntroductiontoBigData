@@ -110,6 +110,8 @@ tag_usage_counts = user_taggedartists_df['tagID'].value_counts()
 # print(tag_usage_counts.head(10))
 outliers_tags = detect_outliers_zscore(tag_usage_counts)
 
+
+
 # Plotting #
 
 # Creating scatter plots
@@ -235,6 +237,14 @@ for user1, user2 in combinations(cosine_sim_df.index, 2):
 user_pairs_similarity_df = pd.DataFrame(user_pairs_similarity, columns=['User1', 'User2', 'Similarity'])
 user_pairs_similarity_df.to_csv('user-pairs-similarity.data', index=False)
 print("File user-pairs-similarity.data saved")
+
+# Sort the DataFrame by 'Similarity' in descending order
+sorted_df = user_pairs_similarity_df.sort_values(by='Similarity', ascending=False)
+# Select the top ten rows
+top_ten_users = sorted_df.head(10)
+# Display the top ten users
+print(top_ten_users)
+
 # Q2.1 Ends #
 
 # Q2.2 Starts #
